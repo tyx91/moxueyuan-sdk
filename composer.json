@@ -10,11 +10,11 @@
     },
     "authors": [
         {
-            "name": "田玉星",
-            "email": "tian.yuxing@scimall.org.cn"
+            "name": "Tian.Yuxing",
+            "email": "624239110@qq.com"
         }
     ],
-    "minimum-stability": "beta",
+    "minimum-stability": "stable",
     "require-dev": {
         "phpunit/phpunit": "^11.5"
     }
