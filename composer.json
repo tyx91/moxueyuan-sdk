@@ -17,6 +17,7 @@
     "require": {
         "php": ">7.0"
     },
+    "version":"v1.0.0",
     "minimum-stability": "stable",
     "require-dev": {
         "phpunit/phpunit": "^11.5"
