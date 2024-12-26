@@ -2,7 +2,7 @@
     "name": "moxueyuan/sdk",
     "description": "魔学院接口SDK",
     "type": "library",
-    "license": "proprietary",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Moxueyuan\\Sdk\\": "src/"
@@ -14,6 +14,9 @@
             "email": "624239110@qq.com"
         }
     ],
+    "require": {
+        "php": ">7.0"
+    },
     "minimum-stability": "stable",
     "require-dev": {
         "phpunit/phpunit": "^11.5"
